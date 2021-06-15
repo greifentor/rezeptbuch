@@ -1,2 +1,2 @@
 # rezeptbuch
-A reciepe book software
+A recipe book software
